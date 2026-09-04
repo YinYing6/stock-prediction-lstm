@@ -1,8 +1,8 @@
-> **Part 2 of 3** in a series testing whether ML can predict stock direction. [← Part 1: Classical ML](../stock_prediction/README.md) | [Part 3: Real Backtest →](../quant-project/README.md)
+> **Part 2 of 3** in a series testing whether ML can predict stock direction. [← Part 1: Classical ML](../stock-prediction-ml/README.md) | [Part 3: Real Backtest →](../quant-trading-backtest/README.md)
 
 # Can Deep Learning (LSTM) Predict Stock Direction? (Also No)
 
-Follow-up to my [stock_prediction](https://github.com/) project. That one
+Follow-up to my [stock_prediction](https://github.com/YinYing6/stock-prediction-ml) project. That one
 tested whether simple ML (Logistic Regression, Random Forest) could predict
 next-day stock direction using technical indicators — it couldn't. This
 project asks: does a more powerful model (LSTM, a type of neural network
