@@ -1,4 +1,4 @@
-> **Part 2 of 3** in a series testing whether ML can predict stock direction. [← Part 1: Classical ML](https://github.com/YinYing6/stock-prediction-ml/README.md) | [Part 3: Real Backtest →](https://github.com/YinYing6/quant-trading-backtest/README.md)
+> **Part 2 of 3** in a series testing whether ML can predict stock direction. [← Part 1: Classical ML](https://github.com/YinYing6/stock-prediction-ml) | [Part 3: Real Backtest →](https://github.com/YinYing6/quant-trading-backtest)
 
 # Can Deep Learning (LSTM) Predict Stock Direction? (Also No)
 
